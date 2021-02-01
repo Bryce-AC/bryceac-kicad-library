@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DC-20_20SEKWA
+D BAR GRAPH 20 segment block, orange
+K display LED array
+F https://docs.rs-online.com/28dd/0900766b80ef4fa8.pdf
+$ENDCMP
+#
+#End Doc Library
